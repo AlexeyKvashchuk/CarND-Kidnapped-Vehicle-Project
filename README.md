@@ -1,6 +1,6 @@
 # **Kidnapped Vehicle (Particle Filter) Project** 
 
-In this project I implement a 2 dimensional particle filter in C++. A particle filter is given a map and some initial localization information (analogous to what a GPS would provide). At each time step a filter will gets observation and control data.
+In this project I implement a 2 dimensional particle filter in C++. A particle filter is given a map and some initial localization information (analogous to what a GPS would provide). At each time step a filter will get an observation and control data.
 
 ### Particle Filter Algorithm Steps and Inputs
 
